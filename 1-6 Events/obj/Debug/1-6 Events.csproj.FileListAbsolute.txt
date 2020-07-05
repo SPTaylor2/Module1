@@ -1,0 +1,13 @@
+C:\Users\splan\source\repos\SD725\1-6 Events\1-6 Events\bin\Debug\1-6 Events.exe.config
+C:\Users\splan\source\repos\SD725\1-6 Events\1-6 Events\bin\Debug\1-6 Events.exe
+C:\Users\splan\source\repos\SD725\1-6 Events\1-6 Events\bin\Debug\1-6 Events.pdb
+C:\Users\splan\source\repos\SD725\1-6 Events\1-6 Events\obj\Debug\1-6 Events.csprojAssemblyReference.cache
+C:\Users\splan\source\repos\SD725\1-6 Events\1-6 Events\obj\Debug\_1_6_Events.Town.resources
+C:\Users\splan\source\repos\SD725\1-6 Events\1-6 Events\obj\Debug\_1_6_Events.Properties.Resources.resources
+C:\Users\splan\source\repos\SD725\1-6 Events\1-6 Events\obj\Debug\1-6 Events.csproj.GenerateResource.cache
+C:\Users\splan\source\repos\SD725\1-6 Events\1-6 Events\obj\Debug\1-6 Events.csproj.CoreCompileInputs.cache
+C:\Users\splan\source\repos\SD725\1-6 Events\1-6 Events\obj\Debug\1-6 Events.exe
+C:\Users\splan\source\repos\SD725\1-6 Events\1-6 Events\obj\Debug\1-6 Events.pdb
+C:\Users\splan\source\repos\SD725\1-6 Events\1-6 Events\bin\Debug\Newtonsoft.Json.dll
+C:\Users\splan\source\repos\SD725\1-6 Events\1-6 Events\bin\Debug\Newtonsoft.Json.xml
+C:\Users\splan\source\repos\SD725\1-6 Events\1-6 Events\obj\Debug\1-6 Events.csproj.CopyComplete
